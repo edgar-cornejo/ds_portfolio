@@ -7,7 +7,7 @@ Data Science Portfolio
 * Vitae elementum curabitur vitae nunc sed. Vestibulum lectus mauris ultrices eros.
 * Habitant morbi tristique senectus et netus.
 
-![Heatmap](https://github.com/edgar-cornejo/ds_portfolio/blob/main/img/283-the-hourly-heatmap.png)
+![Heatmap](/img/283-the-hourly-heatmap.png)
 
 # [Project 2: My second project](https://github.com/edgar-cornejo/ds_portfolio)
 * Tempus urna et pharetra pharetra massa massa. 
@@ -15,4 +15,4 @@ Data Science Portfolio
 * Fermentum iaculis eu non diam phasellus vestibulum lorem sed. 
 * In nibh mauris cursus mattis molestie a. 
 
-![Histogram](https://github.com/edgar-cornejo/ds_portfolio/blob/main/img/external-content.duckduckgo.com.jpeg)
+![Histogram](/img/external-content.duckduckgo.com.jpeg)
