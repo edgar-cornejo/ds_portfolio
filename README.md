@@ -7,7 +7,7 @@ Data Science Portfolio
 * Vitae elementum curabitur vitae nunc sed. Vestibulum lectus mauris ultrices eros.
 * Habitant morbi tristique senectus et netus.
 
-# [Project 2: My second project] (https://github.com/edgar-cornejo/ds_portfolio)
+# [Project 2: My second project](https://github.com/edgar-cornejo/ds_portfolio)
 * Tempus urna et pharetra pharetra massa massa. 
 * Pellentesque nec nam aliquam sem et. 
 * Fermentum iaculis eu non diam phasellus vestibulum lorem sed. 
